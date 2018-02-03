@@ -2,7 +2,7 @@
 
 ## 1. Build app & Dockerfile
 
-`mvn clean install`
+`mvn clean install -DskipTests`
 
 ## 2. Run docker-compose
 
